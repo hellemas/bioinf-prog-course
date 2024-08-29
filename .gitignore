@@ -116,3 +116,6 @@ teaching_assistants/ta_presentations
 book/*.pdf
 book/*.epub
 
+teaching_assistants/class_participants.yaml
+
+exam/
