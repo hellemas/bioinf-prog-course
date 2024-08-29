@@ -118,4 +118,4 @@ book/*.epub
 
 teaching_assistants/class_participants.yaml
 
-exam/
+/exam
